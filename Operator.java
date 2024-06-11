@@ -14,7 +14,7 @@ public class Operator{
         System.out.println();
 
         // Relational Operators
-        System.out.println("Relational Operators:");
+        System.out.printlngit pull origin main("Relational Operators:");
         System.out.println("a == b: " + (a == b));  // Equal to
         System.out.println("a != b: " + (a != b));  // Not equal to
         System.out.println("a > b: " + (a > b));  // Greater than
